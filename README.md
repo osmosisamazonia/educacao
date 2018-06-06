@@ -1,4 +1,4 @@
 # educacao
 Teste dos erros de script
-<line> 
-Apenas montando um quebra-cabeças
+
+# Apenas montando um quebra-cabeças
